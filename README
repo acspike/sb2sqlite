@@ -1,0 +1,5 @@
+== sb2sqlite ==
+
+Script for converting Superbase data files (*.SBD,*.SBF) into an SQLite database.
+
+
